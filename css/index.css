@@ -340,48 +340,8 @@ body {
 }
 
 /* 人工智能 */
-.bd1 ul {
-  display: flex;
-  justify-content: space-between;
-}
-
-.bd1 li {
-  margin-bottom: 14px;
-  width: 228px;
-  height: 271px;
-  background-color: pink;
-}
-
-.bd1 li .pic {
-  height: 156px;
-}
-
-.bd1 li .text {
-  height: 115px;
-  padding: 20px;
-  background-color: #fff;
-}
-
-.bd1 li .text h4 {
-  height: 40px;
-  margin-bottom: 13px;
-  line-height: 20px;
-  font-size: 14px;
-  font-weight: 400;
-}
-
-.bd1 li .text p {
-  font-size: 14px;
-  line-height: 20px;
-  color: #999;
-}
-
-.bd1 li .text p span {
-  color: #fa6400;
-}
-
-.bd1 li .text p i {
-  font-style: normal;
+.clc {
+  width: 1200px;
 }
 
 /* 版权 */
